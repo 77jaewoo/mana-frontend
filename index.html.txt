@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MANA</title>
+</head>
+<body>
+  <h1>🔥 MANA WEB</h1>
+
+  <p>내 첫 웹사이트</p>
+
+  <button onclick="alert('작동됨')">클릭</button>
+</body>
+</html>
